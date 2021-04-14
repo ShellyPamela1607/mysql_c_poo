@@ -1,0 +1,16 @@
+﻿  Cliente.cpp
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(42,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(41,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(67,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(66,13): warning C4101: 'fila': variable local sin referencia
+  mysql_c.cpp
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(42,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(41,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(67,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\mysql_c\Cliente.h(66,13): warning C4101: 'fila': variable local sin referencia
+  Generando código
+  2 of 165 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  mysql_c.vcxproj -> C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\sqlyc++\mysql_c\x64\Release\mysql_c.exe
